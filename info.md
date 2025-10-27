@@ -1,4 +1,4 @@
-# How to create a bootable usb
+# How to create a bootable usb of Windows 10 (or any os)
 
 ## Resources
 
