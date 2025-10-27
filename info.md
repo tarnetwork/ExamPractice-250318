@@ -2,15 +2,15 @@
 
 ## Resources
 
-  - R1:
-  - R2:
+- R1: https://www.howtogeek.com/787937/how-to-make-a-bootable-windows-10-usb-drive/
+- R2: https://www.wintips.org/how-to-burn-transfer-windows-10-iso-to-usb-using-rufus/
 
 ## Step-by-step Guide
 
-  1. Install rufus
-  2. Download ISO (in this case Windows 10)
-  3. Connect usb
-  4. Open Rufus
-  5. Make sure the usb is shown in rufus
-  6. Select ISO in rufus
-  7. Choose Uefi or Mbr
+1. Install rufus
+2. Download ISO (in this case Windows 10)
+3. Connect usb
+4. Open Rufus
+5. Make sure the usb is shown in rufus
+6. Select ISO in rufus
+7. Choose Uefi or Mbr
