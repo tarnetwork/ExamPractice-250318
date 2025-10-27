@@ -13,7 +13,7 @@
 4. Open Rufus
 5. Make sure the usb is shown in rufus
 6. Select ISO in rufus
-7. Configure Settings
+7. Configurations
 8. Click start button and wait for it to complete the process
 
 ## Configurations
