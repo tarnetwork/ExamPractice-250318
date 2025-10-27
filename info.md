@@ -13,4 +13,4 @@
 4. Open Rufus
 5. Make sure the usb is shown in rufus
 6. Select ISO in rufus
-7. Choose Uefi or Mbr
+7. Configure Settings
